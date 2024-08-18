@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/EBook/Scenes/\u76F4\u66F8/Chapter2.unity"
     guid: 42f906f9ba2e16641b3500e00e6aa53c
+  - enabled: 1
+    path: "Assets/EBook/Scenes/\u76F4\u66F8/Chapter3.unity"
+    guid: 293f2188f4cf5494e8e63f208187bd89
+  - enabled: 1
+    path: "Assets/EBook/Scenes/\u76F4\u66F8/Chapter4.unity"
+    guid: 94ec8c2196bc2a7429c4277e52cd8290
   m_configObjects: {}
